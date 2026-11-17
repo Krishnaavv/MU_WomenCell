@@ -15,19 +15,11 @@ A confidential and secure campus safety, grievance redressal, and student well-b
 - Faculty & Committee Administration Panel to manage cases and communicate resolutions
 
 ## Screenshots
-<p align="center">
-  <img src="screenshots/login.jpg" width="19%" alt="Login Screen" />
-  <img src="screenshots/home.jpg" width="19%" alt="Home Dashboard" />
-  <img src="screenshots/report.jpg" width="19%" alt="Report Incident" />
-  <img src="screenshots/events.jpg" width="19%" alt="Events and Workshops" />
-  <img src="screenshots/wellbeing.jpg" width="19%" alt="Daily Well-Being" />
-</p>
-
-![Login Screen](screenshots/login.jpg)
-![Home Screen](screenshots/home.jpg)
-![Report Incident](screenshots/report.jpg)
-![Events & Workshops](screenshots/events.jpg)
-![Daily Well-Being](screenshots/wellbeing.jpg)
+![Login Screen](screenshots/login.png)
+![Home Screen](screenshots/home.png)
+![Report Incident](screenshots/report.png)
+![Events & Workshops](screenshots/events.png)
+![Daily Well-Being](screenshots/wellbeing.png)
 
 ## Tech Stack
 - Language: Kotlin
